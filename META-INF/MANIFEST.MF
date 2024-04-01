@@ -1,0 +1,223 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: lib/armeabi/libgba.so
+SHA1-Digest: 4FYrz4H/oJZ5baU5Ny9LXMuugp4=
+
+Name: res/xml/settings_misc.xml
+SHA1-Digest: MSsMl95quAX9g1jS7GXMA9RtjRY=
+
+Name: res/drawable-xxxhdpi-v4/app_icon.png
+SHA1-Digest: ZqPE4jgVXWgwG0cILYAR+tTpapc=
+
+Name: res/menu/file_browser.xml
+SHA1-Digest: ZZOrTAX13FcqbFaZrnvMHpnc8tQ=
+
+Name: res/menu/cheats_context.xml
+SHA1-Digest: rMVOyI2kgGORYywXJmBqjiQKdH0=
+
+Name: res/menu-v11/cheats.xml
+SHA1-Digest: nyZafRiHUbbtSNXj43Zk3f2fj5A=
+
+Name: res/xml/settings_cartfeatures.xml
+SHA1-Digest: v98jhn5ACYKa4o07VlJPU16QF84=
+
+Name: assets/rom_config.ini
+SHA1-Digest: yTm7DDVrM4juNxlZ4K8tcf+/ttw=
+
+Name: res/drawable-xhdpi-v4/ic_settings_audio.png
+SHA1-Digest: 451Ezas1REmYjxGHdPGwjBufXYo=
+
+Name: res/menu/emulator.xml
+SHA1-Digest: yCjkm6lhZ0d5YWavs4kxbQOq7sY=
+
+Name: res/layout/seekbar_dialog.xml
+SHA1-Digest: IqiSVWn8k6ir2a794b1+WV8V5pw=
+
+Name: res/layout-v11/delete_rom_dialog.xml
+SHA1-Digest: qxKqd1p0TOax0XWcFB+jRQKa96I=
+
+Name: res/drawable-xhdpi-v4/ic_settings_layout.png
+SHA1-Digest: pQNFCkqhsjjJbFgLaB1rBwunPQs=
+
+Name: res/xml-v11/settings_input.xml
+SHA1-Digest: mu4g6XBfHn/AZ6qdnp2ADmX2TYA=
+
+Name: res/drawable-xhdpi-v4/ic_settings_misc.png
+SHA1-Digest: WtFQXTq+LtOwhEap8AlV6ag2eBc=
+
+Name: res/xml-v11/preference_headers.xml
+SHA1-Digest: y5wNPK4vLa5GwzHUjMF5UMM84HQ=
+
+Name: res/menu/profiles_context.xml
+SHA1-Digest: tyKvo3gJgzdYRJ74I8VLdxfjBzg=
+
+Name: res/layout-v11/close_rom_dialog.xml
+SHA1-Digest: sUe9S1RQ0jaPQE9G1qQwvbfrA9I=
+
+Name: res/layout/about_dialog.xml
+SHA1-Digest: tFvfaiL7v6FFjFtxelYLGtHgi4I=
+
+Name: res/drawable-hdpi-v4/ic_btn_up_dir.png
+SHA1-Digest: fbSX2ZP2XVzpPYpUaSeD1TyrS3M=
+
+Name: res/drawable-hdpi-v4/ic_menu_refresh.png
+SHA1-Digest: LQonGowo/QCFO+Spw1x2KXZM9qY=
+
+Name: res/drawable-xhdpi-v4/ic_menu_refresh.png
+SHA1-Digest: 9lg0jLislXrgq0Sd3ub+xjWJv1g=
+
+Name: res/xml/preference_headers.xml
+SHA1-Digest: Zsf0iv6A4kzm8E7mH2WYAJFKRAM=
+
+Name: res/drawable-xhdpi-v4/ic_settings_video.png
+SHA1-Digest: HTtlsHDfHRupWSyujSRJCG3Ngmc=
+
+Name: res/layout/wifi_connect.xml
+SHA1-Digest: Pi0HM+DjLW3C1HQc24s8SB14Jgk=
+
+Name: res/drawable-xhdpi-v4/ic_settings_input.png
+SHA1-Digest: f9PN3Xxl/L69mCit3D/edSEC+KQ=
+
+Name: res/menu-v11/profiles.xml
+SHA1-Digest: cKy4tblU54ajProihyLw2NSnZNM=
+
+Name: assets/scanlines.shader
+SHA1-Digest: boqTT6QfmAhqaPak0i5QUOpkTxc=
+
+Name: res/layout/list_content_simple.xml
+SHA1-Digest: WZcdAJ9iNJsgguv0mnjPFQQEkLo=
+
+Name: assets/hq4x.shader
+SHA1-Digest: WD3ABsYRgIjnA1nuHVxGlv8qQCE=
+
+Name: res/layout-v11/seekbar_dialog.xml
+SHA1-Digest: /zPB8VyRvf8SfXaKLKE1G1GrCl0=
+
+Name: res/menu-v11/main.xml
+SHA1-Digest: dxjlTy2bBFuIHPeWHB+kCSCcOxE=
+
+Name: res/xml/settings_vkeypad.xml
+SHA1-Digest: vohWduET+cm1Mqfe0bNvUbSxGuQ=
+
+Name: res/menu-v11/key_mappings.xml
+SHA1-Digest: VZUPd/bddhxS/4MyMi5jl/XW6is=
+
+Name: resources.arsc
+SHA1-Digest: VzOqcmFdn0UghRrRf/+ehVtu5Q4=
+
+Name: assets/motion-blur.shader
+SHA1-Digest: mpPM9FcKDnNkdbQUiGgiuC8GGkU=
+
+Name: res/menu/layout_editor.xml
+SHA1-Digest: W8F/a/JPk4frg+1iehSZmx/n2+4=
+
+Name: res/menu/key_mappings.xml
+SHA1-Digest: bxO9/gb7nKIn+/1ecNL4dmMEI0o=
+
+Name: assets/hq2x.shader
+SHA1-Digest: iFn+1iNpZbNoO7/2ooWgvjYnM2A=
+
+Name: AndroidManifest.xml
+SHA1-Digest: qf5d8yzMheaIIaZGtpRPHxZ2vSQ=
+
+Name: res/layout/add_control_item.xml
+SHA1-Digest: qsTWbRz04KYTHtoATUJLcutN3kg=
+
+Name: res/layout/bluetooth_device_name.xml
+SHA1-Digest: AjMSJ4MUSdqAM8zkofq1YQ49wl8=
+
+Name: res/layout-v11/add_control_item.xml
+SHA1-Digest: Hqx8yAQfPceRpS/CnWnZWVKpcNE=
+
+Name: res/layout-v11/save_slot_item.xml
+SHA1-Digest: iOIeujFvjjTVNnM3Ooih5JPgpuQ=
+
+Name: res/menu/main.xml
+SHA1-Digest: ZMBnUMm43gezh5zjiF/s3CYz78A=
+
+Name: res/drawable-xhdpi-v4/ic_settings_advanced.png
+SHA1-Digest: hTedOu41mceDtJDXSJxwMbgrT3c=
+
+Name: res/xml/settings_advanced.xml
+SHA1-Digest: lcZour/A51qYcHZKZSws/fJ08nE=
+
+Name: res/drawable-nodpi-v4/vkeypad.png
+SHA1-Digest: 1K+wAwtkWLs+Z/nEVSO7KMZXvgU=
+
+Name: res/menu-v11/file_browser.xml
+SHA1-Digest: IlrgADS3vHdSQ7dYKJ9WNySQ1C0=
+
+Name: res/xml/preference_headers_legacy.xml
+SHA1-Digest: uSMSMKKI92nezMl6c3N46EetrTU=
+
+Name: res/layout/close_rom_dialog.xml
+SHA1-Digest: Ih1Ho13+6Lqew9IS7G1ooVphg3w=
+
+Name: res/menu/new_cheat.xml
+SHA1-Digest: irFp8BTCWi3NJa61eazqiMNc6jE=
+
+Name: res/menu/profiles.xml
+SHA1-Digest: +NovbS3s85iWqWmygnjR1bEPDoQ=
+
+Name: res/xml/settings_audio.xml
+SHA1-Digest: gH4eLG5eMLxIX7a1+ezfgLMCnbI=
+
+Name: res/drawable-xhdpi-v4/ic_notification.png
+SHA1-Digest: Eo9aoozhynOoHrbTUbhDmo0m+NE=
+
+Name: res/xml/settings_input.xml
+SHA1-Digest: Gjb0pxQaKQBCBm2bL/RRPlcrJqM=
+
+Name: res/drawable/control_background.xml
+SHA1-Digest: iqFj0fgT2w5nE/SQ8eWqYclCc8E=
+
+Name: res/layout/rename_dialog.xml
+SHA1-Digest: wS6iAgV92CFh88XluWOkbozLcKg=
+
+Name: res/drawable-xhdpi-v4/resize.png
+SHA1-Digest: HbbSpLO22hKC46nVgVUC+GpFh+8=
+
+Name: res/menu/cheats.xml
+SHA1-Digest: 6TBLQba4uf1H5s7RmBF6G6IXWMM=
+
+Name: res/layout/cheats.xml
+SHA1-Digest: QdmbuXM6YQaiVuJo6pvC3rMGcQA=
+
+Name: res/menu/main_context.xml
+SHA1-Digest: QvNkFP3lBQpsHDUseGlJWFCE+Eg=
+
+Name: res/drawable-nodpi-v4/video.png
+SHA1-Digest: D+dBxTMjXeI7/d9VkNDGP57CxF4=
+
+Name: res/layout/file_browser.xml
+SHA1-Digest: rrighc/XImwG2ht2BQMiCmqREJE=
+
+Name: res/xml/new_cheat.xml
+SHA1-Digest: 3RR5CFOU/gH7NjCGT4Z8RC207zA=
+
+Name: res/layout/delete_rom_dialog.xml
+SHA1-Digest: TEQFaT4nmswR53gcPD41rvIi3oo=
+
+Name: res/drawable-xhdpi-v4/ic_settings_about.png
+SHA1-Digest: 1ewCwmQuvTkS0lwu9wJnWTwfDLw=
+
+Name: res/layout/bluetooth_device_list.xml
+SHA1-Digest: 8zy4s8x8oH8i23Woj/pZ3ho2OeI=
+
+Name: res/layout/save_slot_item.xml
+SHA1-Digest: LaS5BY0+/g26D2Z2Ervyx7EfT9o=
+
+Name: assets/lcd3x.shader
+SHA1-Digest: 0a1OPTR0J5Rg6MUARyXw38CbDqI=
+
+Name: assets/grayscale.shader
+SHA1-Digest: BR4QllXwom+Tcqvf+ccmyE/5H2o=
+
+Name: classes.dex
+SHA1-Digest: ljGWB/5crgckw5GniHiE9jkz+ow=
+
+Name: res/xml/settings_video.xml
+SHA1-Digest: zZTCscm9KrIdLSMZjG2/2N2wlbU=
+
